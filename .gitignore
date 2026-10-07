@@ -1,0 +1,7 @@
+# compiled binaries
+tinyredis
+*.exe
+
+# test artifacts
+*.test
+*.out
